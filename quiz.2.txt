@@ -1,0 +1,49 @@
+1.
+Q.: If in the testing phase our predictions are confirmed by the data, does this mean we have definitively proven the hypothesis?
+A.: No
+(Very good, a hypothesis can be repeatedly confirmed, but all this gives you is provisional support. Think about the white and black swans! For many many years only white swans were being observed, which might made you think that it is definitely proven that all swans are white. However, way later when Australia was discovered, there appeared to be black swans as well! Therefore, you can never say that a hypothesis is definitely proven, no matter how often it is confirmed.)
+
+2. 
+Q.: If the data support our predictions, this leads us to conclude that
+A.: The hypothesis is provisionally supported
+(Indeed, although you can never definitely prove an hypothesis, you can provisionally support it if the data is in line with your predictions.)
+
+3. 
+Q.: Heavey, Russell and Noelle (2012, p. 763) stated that: “How you feel may influence your facial expression, may be influenced by your facial expression, may be otherwise related to your facial expression, or none of the above, so a scientist's observation of your facial expression (a third-person act) cannot be substituted for your own direct apprehension of your feelings (a first-person act)”. Here, the authors doubt the
+A.: Construct validity of studies using facial expressions
+(Yes! Do we measure what we want to measure? They want to measure peoples feelings by looking at their facial expression. Apparently, your facial expression is no good indicator of your feelings, and therefore you do not measure what you want to measure.)
+
+4. 
+Q.: By combining data from various publicly available sources Harvard Law School student Tyler Vigen has found out that there’s a correlation between the number of movies Nicolas Cage appears in each year and the number of people who drown in their swimming-pools. The MOST logical conclusion is that
+A.: Correlation doesn't imply causation
+(Indeed! Many things in this world are correlated, even the most random things like movies with Cage and people drowning in swimming pools. Although you might imagine that there are people doing strange things after watching a film with Cage and the same year tend to drown in a pool, a correlation by itself is never enough support to conclude a causal relation.)
+
+5. 
+Q.: Suppose a researcher hypothesizes a causal relationship between breastfeeding and children’s health at age 4 years exists and investigates this hypothesis by measuring health characteristics of a group of four year olds and by asking their mothers whether the child was breastfed or not. Suppose a relation is indeed found. The most obvious threat to internal validity in this situation is:
+A.: Selection effect
+(This could be problematic in this case. Women who did and who did not breastfeed their children might systematically differ on characteristics that also might influence children's health, for example degree of healthy lifestyle. Randomization would be the solution, however it might be ethically difficult to randomly assign women to either or not breastfeed their children.)
+
+6. 
+Q.: Testing effects due to practice/learning from exposure to repeated testing can be eliminated by
+A.: Including groups that are exposed to a pre-test and groups that aren't
+(Indeed, to be able to recognize sensitization you can include a group of people without the pre-test. In this way you can compare scores of both groups and look at the results to find out whether the participants might have learned from previous exposure.)
+
+7. 
+Q.: In a famous study by psychologist John Bargh subjects had to create a sentence from scrambled words. When these words related to being old, participants walked more slowly when they left the laboratory. In a recent replication study, Doyen, Klein, Pichon and Cleeremans (2012) found that participants walked more slowly only when they were tested by experimenters who expected this effect. This seems to point to
+A.: An experimenter expectancy effect
+(Indeed, unknowingly the experimenters seem to rate participants as slower when they expected them to.)
+
+8. 
+Q.: A researcher is interested in the effect of the perceived freedom of speech on social cohesion in small communities. She investigates small communities in China - which has a low perceived freedom of speech - and Malaysia - which has a relatively high perceived freedom of speech. The study runs for ten years. The study started two years before China relaxed its policy of restricting couples to have only one child. This policy change represents a
+A.: History threat to internal validity
+(Yes, the policy change provides a possible alternative explanation for any (lack of) change in social cohesion between the two countries. For example, an increase in social cohesion in China might be due to increased perceived freedom of speech, but it might also be due to an increase in the number of children per couple.)
+
+9. 
+Q.: Willingness to take risks is assumed to be an important component of entrepreneurship. We hypothesize that willingness to take risks causes people to start and run a business. Here,
+A.: Entrepeneurship is the dependent variable
+(That's true, it is your outcome variable, hypothesized to be influenced by the willingness to take risks.)
+
+10. 
+Q.: Suppose an observational study indicates a positive relation between weekly ice cream consumption and murder rates. Which of the following are possible lurking variables?
+A.: Season of the year and heat waves
+(Yes, you can imagine that season and temperature would cause more people desiring ice creams, but also cause more people to be outside for longer periods of time, which might lead to higher murder rates.)
