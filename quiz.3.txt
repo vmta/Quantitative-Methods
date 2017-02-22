@@ -1,0 +1,54 @@
+1.
+Q.: The main advantage of randomized controlled trials (RCT) is that
+A.: they provide the best support for causality
+(Yes! Being able to manipulate variables and randomly assign participants in either condition, makes the main advantage of RCT the ability to make statements about causality and causal relations.)
+
+2. 
+Q.: A researcher presents both male and female managers from several companies with application materials (CV and application letter) from a student applying for a job opening. Half the managers were given the application with a male name attached, and half were given the exact same application with a female name attached. Results showed that managers were less likely to offer the female applicant a job (gender bias). This corresponds to
+A.: a main effect of the applicant’s gender
+(Correct! All managers were inclined to offer a job sooner to a male than a female, regardless of their own gender. This indicates a main effect of the applicant's gender.)
+
+3. 
+Q.: Which of the following illustrates the use of a within-subjects design?
+A.: Students take two comparable tests. They take the first without preparation; before the second test they meditate for ten minutes.
+(Correct, this is a within-subject design because you are looking for effects within the same person. In this case through two measurement occasions with a meditation in between.)
+
+4. 
+Q.: An educational psychologist examined whether students will perform best if online education is combined with classroom learning. Students were randomly assigned to three conditions. In this study, these three conditions would be
+A.: online education, classroom learning and a combination of both
+(Correct! The independent variable is way of learning, to learn whether performance is enhanced when combining online and classroom education. Therefore you would need separate online and separate classroom education, but also a combination of the two.)
+
+5. 
+Q.: Those in favor of field experiments argue that this type of research is perhaps less tightly controlled, but that more realism implies greater relevance. They also question the generalizability of laboratory experiments. This critique can be summarized as
+A.: doubt on the ecological validity of laboratory experiments
+(Correct! Since laboratory settings are not natural settings, some researchers argue that field experiments are a better reflection of the reality.)
+
+6.
+Q.: A researcher notices that highly educated participants are more likely to refuse an unpleasant experimental treatment after being randomly assigned to the treatment condition. Therefore, he is concerned about the comparability of the treatment and control group. In this case, the researcher should BEST
+A.: do a randomization check
+(Correct! Now you can see if the different groups indeed systematically differ on certain outcomes. When this appears to be the case, others steps should be taken.)
+
+7.
+Q.: Which of the following designs allows the researcher to compare the size of the increase or decrease in scores in the experimental and control condition?
+A.: the two-group pre-test/post-test design
+(Very good! Here you can compare the experimental and control group, but you can also see the in- or decrease because you have a pre- and post-test.)
+
+8.
+Q.: If participants are not measured twice (e.g. only a post-test)
+A.: regression to the mean and testing (reactivity) are not issues
+(Correct! You don't have the problem that the most extreme cases will be less extreme in the second measurement, and participants will not learn from the first measurement.)
+
+9.
+Q.: Cameron, Erkal, Gangadharan, and Meng (2013) studied the causal relationship between growing up without siblings and altruism by comparing a group of participants born just before and just after the introduction of China’s One-Child Policy in 1979. This is an example of
+A.: a ‘natural’ experiment
+(Correct! This is a natural experiment, meaning that participants are naturally in different conditions.)
+
+10.
+Q.: A cohort design is a panel study
+A.: where a group of individuals with a common characteristic are followed up longitudinally
+(Correct, specific for a cohort study is the common characteristics of the participants.)
+
+11.
+Q.: Mincome was an experimental Canadian basic income project that was held in Dauphin, Manitoba during the 1970s. The project allowed every family in this town to receive a minimum cash benefit, thereby essentially eliminating poverty. Forget (2013) has evaluated the long-term effect of this guaranteed income program on people’s health (hospitalization rates) by comparing residents from Dauphin with a matched comparison group of residents from similar areas. This study can be characterized as
+A.: a summative evaluation study with a quasi-experimental design
+(Correct! The evaluation focuses on the outcome, and is therefore summative. Additionally, since participants could not be assigned to conditions, but there was an intervention program, the design is quasi-experimental.)

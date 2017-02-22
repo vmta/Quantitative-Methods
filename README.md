@@ -7,8 +7,8 @@
   - [x] Quiz
 - [x] Week 2
   - [x] Quiz
-- [ ] Week 3
-  - [ ] Quiz
+- [x] Week 3
+  - [x] Quiz
 - [ ] Week 4
   - [ ] Quiz
 - [ ] Week 5
