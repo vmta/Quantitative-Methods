@@ -4,13 +4,13 @@
 [Quantitative Methods] (https://www.coursera.org/learn/quantitative-methods/)
 
 - [x] Week 1
-  - [x] Quiz
+  - [x] Quiz 100% (10/10)
 - [x] Week 2
-  - [x] Quiz
+  - [x] Quiz 100% (10/10)
 - [x] Week 3
-  - [x] Quiz
+  - [x] Quiz 100% (10/10)
 - [x] Week 4
-  - [x] Quiz
+  - [x] Quiz 90% (9/10)
 - [ ] Week 5
   - [ ] Quiz
 - [ ] Week 6
