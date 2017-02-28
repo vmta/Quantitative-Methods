@@ -1,0 +1,55 @@
+1.
+Q.: Operationalization refers to
+A.: the specification of an abstract concept into a measurement procedure
+(Indeed, the process of making abstract concepts into a specific measurement procedure is called operationalization.)
+
+2.
+Q.: Measurement is
+A.: the numerical representation of empirical relations
+(Correct! Measurement refers to empirical relations in their numerical representation.)
+
+3.
+Q.: A researcher asks people to name their favorite music genre (rock, rap, etc…). This question measures music genre preference at
+A.: the nominal level
+(Very good. Nominal variables contain categories that are not ordered. In other words, one category is not better or more than the other.)
+
+4.
+Q.: Markowitz and Hancock (2014) compared publications of the social psychologist Diederik Stapel in which proof of fraud was established to articles by the same author which showed no evidence of fraud. One of the things these researchers did was to count the number of words related to emotional actions, states and processes in the two types of publications. Such a word frequency variable is
+A.: a discrete ratio variable
+(Very good. It is a ration variable because it has a strict zero-point, and it is discrete because it can only take a limited set of values, which is only whole numbers, since there is no such thing as 1,5 word.)
+
+5.
+Q.: I. measures of the same trait using different methods show agreement
+Q.: II. different traits assessed by the same method do not agree
+A.: I indicates convergent validity, II indicates discriminant validity
+(Correct, when using different methods to measure the same trait and they agree, it indicates convergent validity. However, when you use 1 method to measure different traits and you succeed, meaning that the results are different, than this measure can discriminate between traits.)
+
+6.
+Q.: The degree of agreement between raters when using a particular rating instrument is called
+A.: inter-rater reliability
+(Correct. The term inter-rater refers to between raters.)
+
+7.
+Q.: “38% of the managers would not hire a mother for any role in their organization”. This statement MOST likely implies that a sample of managers has
+A.: filled out a survey including a question if they would recruit a mum for a position in their business
+(Correct, this item makes sure every manager thinks about the same question, making it possible to derive statements like the one presented in the quiz question.)
+
+8.
+Q.: Likert items should be monotone, meaning that respondents
+A.: are consistently more likely to agree with the item if they possess the property to a greater degree
+(Correct! That is what the term monotone items refers to.)
+
+9.
+Q.: Consistently concealing your true opinion by using the midpoint of the scale
+A.: introduces systematic error and is called bias towards the middle
+(Correct, this habit of using the midpoint of the scale leads to a systematic error.)
+
+10.
+Q.: Hair cortisol (a hormone made by the adrenal glands) levels are being used as a chronic stress measure. This illustrate the use of
+A.: observational measures
+This should not be selected 
+No, observational measures refer to observing something. You cannot observe hair cortisol level.
+A.: physical measures
+A.: trace measures
+This should not be selected 
+No, trace measures refer to the indirect measure of behavior through trace evidence, for example the mess you made in your room to determine your degree of chaos.

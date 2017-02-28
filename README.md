@@ -9,8 +9,8 @@
   - [x] Quiz
 - [x] Week 3
   - [x] Quiz
-- [ ] Week 4
-  - [ ] Quiz
+- [x] Week 4
+  - [x] Quiz
 - [ ] Week 5
   - [ ] Quiz
 - [ ] Week 6
