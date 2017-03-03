@@ -11,8 +11,8 @@
   - [x] Quiz 100% (10/10)
 - [x] Week 4
   - [x] Quiz 90% (9/10)
-- [ ] Week 5
-  - [ ] Quiz
+- [x] Week 5
+  - [x] Quiz 88% (8/9)
 - [ ] Week 6
   - [ ] Quiz
 - [ ] Week 7

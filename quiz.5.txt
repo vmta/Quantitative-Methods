@@ -1,0 +1,43 @@
+1.
+Q.: In directed imagery tasks participants listen to a particular scenario and are instructed to picture the situation, the people, and the events as clearly and as vividly as they can. A researcher could ask participants how realistic they found such scenarios in order to check
+A.: the external validity of the task
+
+2.
+Q.: Strata are
+A.: distinct subsets in the population defined by a stratification variable
+(Correct! Strata refer to specified subsets in which sampling is done)
+
+3.
+Q.: Opinion polls attempt to measure public opinion. Poll results can accurately reflect the attitudes in the population if
+A.: the poll is based on probability sampling
+(Correct, probability sampling is the way to get the most representative sample of the population.)
+
+4.
+Q.: Systematic sampling may be used instead of simple random sampling if
+A.: the list of elements is ordered randomly
+(Correct, in this way you still have a random sample, but the randomization is done before you select the participants.)
+
+5.
+Q.: The loss in precision is usually far outweighed by the reduced cost. This applies to
+A.: cluster sampling
+(Correct! With cluster sampling you specify clusters in which you randomly select participants, thereby reducing costs for example because you do not have to visit one person per city.)
+
+6.
+Q.: A researcher approaches the first visitor entering a mall and asks if he or she is willing to participate in a study on aging and depression. He approaches the next visitor, followed by the next, and so on. This is
+A.: convenience sampling
+(Yes! Potential respondents are selected simply based on their availability. There is no selection based on specific characteristics or a systematic procedure.)
+
+7.
+Q.: As the size of a random sample increases, the amount of sampling error
+A.: decreases
+(Indeed! The larger the sample, the better it usually reflects the population, and therefore the smaller the sampling error.)
+
+8.
+Q.: Using the same sample frame, a random sample of 500 voters were interviewed by telephone and a second random sample of 500 voters answered the same set of questions by filling out a web survey. A systematic difference in polls results can be due to
+A.: differences in non-sampling error between the two samples
+(Correct! Since the random samples are likely to be similar reflections of the population, it is most likely that the systematic difference is due to differences in non-sampling error, such as a difference in non-response.)
+
+9.
+Q.: To decide the optimal sample size, one needs to consider
+A.: the variability in the population and the margin of error that one is willing to accept
+(Correct! If you want a small margin of error, your sample size needs to be larger than for a larger margin of error. In addition, variability is important to take into account.)
