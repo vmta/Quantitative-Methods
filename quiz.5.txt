@@ -1,6 +1,7 @@
 1.
 Q.: In directed imagery tasks participants listen to a particular scenario and are instructed to picture the situation, the people, and the events as clearly and as vividly as they can. A researcher could ask participants how realistic they found such scenarios in order to check
 A.: the external validity of the task
+(Correct! When scenarios are realistic the results can be generalized to real life similar situations.)
 
 2.
 Q.: Strata are
