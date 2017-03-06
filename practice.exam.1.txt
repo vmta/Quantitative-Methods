@@ -1,0 +1,182 @@
+1. 
+This is a practice exam, to prepare yourself for the final exam. You can take this exam as many times as you like, the score will not count towards your final grade. To pass the exam you need a score of 70% (21 out of 30 questions correct).
+In the real exam, please make sure your internet connection is good and don't forget to save your answers from time to time. You can take the final exam only once every 30 days, so make sure you are well prepared!
+This practice final exam consists of 30 multiple-choice questions about the research described below. Each question has three answer options, of which only one is correct or most appropriate. If you feel a correct answer option is not provided, then choose the best fitting option.
+Please follow the honor code and do not communicate or confer with others taking this exam.
+
+Flipping the classroom
+A lecturer at the University of Amsterdam (UvA) wants to investigate the effectiveness of an instructional method called 'Flipping the Classroom' (FtC). FtC means that students prepare for class by watching short video lectures online. Subsequently, in the face-to-face, live lectures the subject matter is treated more in-depth, by using interactive assignments, so students will learn more.
+The teacher investigates this method with premaster students and regular bachelor students studying Communication Science, who are taking the course Statistics-II together. Under the guise of extra support, four days before each lecture, the premaster students get access to the video recordings of last year’s lecture. They are asked to study these recordings carefully. In the live lecture (for all students) the lecturer only explains the most difficult material, and leaves a lot of time for questions. After this lecture, the premaster students don't have any access to the recordings anymore. The regular students get access to the recording of the live lecture they attended during four days after the lecture. At the end of the course, all students take the same exam at the same time.
+The effectiveness of the ‘standard’ versus the FtC instructional method will be investigated by comparing exam scores (study performance, score range: 1 – 10, interval variable) of the two groups. During the exam a questionnaire is used to measure self-confidence and study motivation (both interval variables with a score range of 10 – 50) and age, gender and the math score obtained in secondary school (on final exams).
+Disclaimer: this research is completely made up!
+
+1.
+Q.: This research is
+A.: quasi-experimental
+(Correct!)
+
+2.
+Q.: A manipulation check could consist of checking if
+A.: the lecture videos were indeed studied
+(Correct!)
+
+3.
+Q.: The independent variable is
+A.: instructional method
+(Correct!)
+
+4.
+Q.: The most obvious threat to internal validity is
+A.: selection
+(Correct!)
+
+5.
+Q.: If self-confidence is significantly lower for premaster students, then self-confidence is a
+A.: confounder
+(Correct!)
+
+6.
+Q.: The dependent variable is
+A.: study performance
+(Correct!)
+
+7.
+Q.: This research has the following design:
+A.: static group comparison
+(Correct!)
+
+8.
+Q.: The external validity of this study benefits from the fact that
+A.: both male and female students participated
+(Correct!)
+
+9.
+Q.: The sample is (most likely) a
+A.: convenience sample
+(Correct!)
+
+10.
+Q.: Suppose the effect of the instructional method and gender on study performance was investigated factorially, then how many main effects can be investigated?
+A.: 2
+(Correct!)
+
+11.
+Q.: If a researcher maintains that the not-directly observable trait of study motivation can be useful in scientific claims, then this researcher is not a
+A.: logical-positivist (like Schlick)
+(Correct!)
+
+12.
+Q.: Suppose that FtC does not result in better study performance, but does result in higher study motivation. As a consequence, the researcher changes the research question and hypothesis and presents the study as a study on the effect of FtC on study motivation. This is called
+A.: harking
+(Correct!)
+
+13.
+Q.: This study has the following design:
+A.: between
+(Correct!)
+
+14.
+Q.: The only threat to internal validity which could not provide an alternative explanation for the expected results in this study is
+A.: testing (sensitization)
+(Correct! There was no pretest, so a testing effect cannot occur.)
+
+15.
+Q.: A control variable in this study is
+A.: study motivation
+(Correct!)
+
+16.
+Q.: The ecological validity in this study is fairly good, because it was performed
+A.: on actual students
+A.: in a natural educational setting
+A.: both
+(Correct!)
+
+17.
+Q.: A randomization-check could consist of checking if
+A.: mean age in the two groups was approximately the same
+(Correct!)
+
+18.
+Q.: Suppose that study performance is mainly determined by reading skill instead of understanding of the course material. This is bad for the
+A.: internal validity
+A.: construct validity
+A.: both
+(Correct!)
+
+19.
+Q.: Instructional method is a
+A.: experimental variable
+(Correct!)
+
+20.
+Q.: In this study random sampling can only be carried out in practice when the population exists of
+A.: UvA-students who are enrolled in 2014-2015
+(Correct!)
+
+21.
+Q.: Considering the benefits (knowledge about the effectiveness of FtC) and disadvantages (possible lowering of study performance of one group of students) falls under the ethical aspect of
+A.: beneficence
+(Correct!)
+
+22.
+Q.: If a researcher holds that it is impossible to know or measure how much self-confidence someone really has, then this is an objection of
+A.: an epistemological nature
+(Correct!)
+
+23.
+Q.:
+a. 'Studying material beforehand will lead to better study performance’
+b. 'My live lectures seem more useful when students are well prepared'
+c. The mean result for Statistics-II will be higher for students who were instructed via FtC, than the mean of students who received regular instruction'
+The three statements above consecutively belong the following phases of the empirical cycle:
+
+A.: induction – observation – deduction
+(Correct!)
+
+24.
+Q.: If a student responds with 'totally disagree' to all items on the study motivation-scale, not considering the content of the items, we call this
+A.: acquiescence
+(Correct!)
+
+25.
+Q.: Suppose that the research hypothesis is confirmed by the results. Our confidence in the effectiveness of FtC is strengthened most by
+A.: replication
+(Correct!)
+
+26.
+Q.: The researcher wants to know whether students' motivation is measured validly. The scores on the study motivation scale are compared with the scores on the Amsterdam Study Motivation Scale (ASMS), a widely used tool during enrollment for the study of all students. The correlation between study motivation measured in the present study and the ASMS-score concerns
+A.: convergent validity
+(Correct!)
+
+27.
+Q.: Self-confidence is a
+A.: individual-differences variable
+(Correct!)
+
+28.
+Q.: The measurement level of the variable instructional method is
+A.: nominal
+(Correct!)
+
+29.
+Q.: Suppose the researcher finds the following descriptive statistics for the variable study motivation:
+
+Descriptive Statistic / Value
+
+number of participants / 126
+number of missing values / 0
+minimum value / -1
+maximum value / 50
+mean / 30.7
+standard deviation / 12.3
+
+The most probable error is
+
+A.: misspecification of missing values
+(Correct!)
+
+30.
+Q.: Suppose we find a mean study performance score of 6.28 (84 students, sd = 0.85) in the regular group and a mean of 6.61 in the FtC group (42 students, sd = 1.66). A higher score indicates a better performance. If you consider only the direction of the difference between the groups (don’t worry about the size or significance of the difference) then the results
+A.: agree with the researcher's expectations
+(Correct!)

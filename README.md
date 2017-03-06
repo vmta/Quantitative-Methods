@@ -16,8 +16,9 @@
 - [x] Week 6
   - [x] Quiz 100% (8/8)
 - [ ] Week 7
-  - [ ] Quiz
+  - [x] Practice Exam 1 100% (30/30)
+  - [ ] Practice Exam 2
 - [ ] Week 8
-  - [ ] Quiz
+  - [ ] Final Exam
 
 Not for sale. Please, consider purchasing courses and/or contribute to respective course authors.
