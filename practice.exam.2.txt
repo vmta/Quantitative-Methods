@@ -1,0 +1,181 @@
+This is a practice exam, to prepare yourself for the final exam. You can take this exam as many times as you like, the score will not count towards your final grade. To pass the exam you need a score of 70% (21 out of 30 questions correct).
+
+In the real exam, please make sure your internet connection is good and don't forget to save your answers from time to time. You can take the final exam only once every 30 days, so make sure you are well prepared!
+
+This practice final exam consists of 30 multiple-choice questions about the research described below. Each question has three answer options, of which only one is correct or most appropriate. If you feel a correct answer option is not provided, then choose the best fitting option.
+
+Please follow the honor code and do not communicate or confer with others taking this exam.
+
+Comparative Feedback
+
+A lecturer at the University of Amsterdam (UvA) wants to investigate whether comparative feedback about activity within an online learning environment improves study engagement. This feedback consists of information on the amount of time that a student spends on the online platform compared to fellow students (for example: “This week you spent 2.1 hours on the course site, that is more time than 65% of your fellow students.”). To investigate its effectiveness this comparative feedback is compared to general feedback (for example: “This week students spent a total of 216 hours on the course site.”). The feedback is sent via email once a week.
+
+The lecturer investigates the effect of comparative feedback in a group of premaster and regular bachelor students Political Science who follow a Statistics course she teaches. All students are randomly assigned to receive either comparative or general feedback. Students are not told that the feedback is part of a research study, they are only informed that two new methods to report study activity are being tested and that they can expect weekly updates.
+
+The effect of comparative feedback versus general feedback on study engagement is determined using a study engagement questionnaire (engagement, range 10 – 50, interval level) constructed by the lecturer and used for the first time. This questionnaire is administered a week after the end of the course. The questionnaire also inquires about the students' age (in years), sex (male/female) en highest educational degree (secondary education diploma, bachelor's degree, master's degree). Finally, the scores on the Statistics exam are collected.
+Disclaimer: this research is entirely made up!
+
+1.
+Q.: The described research study is
+A.: experimental
+(Correct)
+
+2.
+Q.: The lecturer could have performed a manipulation-check by checking if
+A.: the students opened and read the emails
+(Correct)
+
+3.
+Q.: The independent variable is
+A.: type of feedback
+(Correct)
+
+4.
+Q.: The research design aims to prevent a threat to internal validity caused by
+A.: maturation
+A.: selection
+A.: both
+(Correct)
+
+5.
+Q.: Suppose the engagement questionnaire is very unreliable. As a result, an estimate of the following type of validity will be low
+A.: construct validity
+(Correct)
+
+6.
+Q.: The dependent variable is
+A.: engagement
+(Correct)
+
+7.
+Q.: This research has the following design
+A.: randomized two group design
+(Correct)
+
+8.
+Q.: The external validity could have been improved by using
+A.: random multi-stage cluster sampling
+(Correct)
+
+9.
+Q.: If the sample would have been twice as large, then the margin of error would have been
+A.: smaller
+(Correct)
+
+10.
+Q.: If the lecturer does not document the study in enough detail, then this compromizes
+A.: transparency
+(Correct)
+
+11.
+Q.: The lecturer holds that the property engagement really exists, independent of human thought, and that knowledge about students' engagement is best acquired through measurement, for example by using a questionnaire. The lecturer is not
+A.: a rationalist
+A.: an idealist
+A.: both
+(Correct)
+
+12.
+Q.: Suppose the expected effect occurs only for premaster students. The lecturer reports the result of this group of participants alone. We call this
+A.: cherry picking
+(Correct)
+
+13.
+Q.: Suppose the lecturer decides to add the variable sex to the described research design as an independent variable. The design is then called
+A.: factorial
+(Correct)
+
+14.
+Q.: Possible threats to internal validity, against which the described research design does notprotect, are
+A.: mortality
+A.: history
+A.: both
+(Correct)
+
+15.
+Q.: Suppose that in the population of women, the variation in engagement scores is greater than in the population of men. Suppose we take a sample of men and a sample of women of equal size. Compared with the men, the precision of the estimation of mean engagement for women is expected to be
+A.: smaller
+(Correct)
+
+16.
+Q.: The lecturer could have approached the research question qualitatively by assessing engagement using
+A.: an open interview
+(Correct)
+
+17.
+Q.: The lecturer could have performed a randomization-check by checking if
+A.: engagement was the same between groups at the beginning of the course
+(Correct)
+
+18.
+Q.: Suppose the exam grade does not give a good indication of knowledge of statistics. This is firstly a problem for the
+A.: construct validity of the exam
+(Correct)
+
+19.
+Q.: In fundamental research the most important type of validity is
+A.: internal validity
+(Correct)
+
+20.
+Q.: The most obvious threat to external validity in this study is
+A.: selection
+(Correct)
+
+21.
+Q.: What ethical aspect is definitely violated in this study?
+A.: respect
+(Correct)
+
+22.
+Q.: Suppose the lecturer does not find the expected result. She decides not to reject the hypothesis yet, but to reject the assumption of valid and reliable measurement of engagement instead. This approach was critically discussed by
+A.: Quine
+(Correct)
+
+23.
+Q.: The choice to measure engagement with a questionnaire (instead of, for example, by using observation) is associated with the following phase in the empirical cycle
+A.: deduction
+(Correct)
+
+24.
+Q.: If an item from the engagement questionnaire is considered to be applicable by highly engaged students but also by highly unengaged students, then this item is not
+A.: monotone
+(Correct)
+
+25.
+Q.: Suppose the research hypothesis is not confirmed by the results and the lecturer decides notto publish the research for that reason. This is an example of
+A.: the file-drawer problem
+(Correct)
+
+26.
+Q.: If the engagement questionnaire is very unreliable, then the next time any particular student completes the questionnaire the new engagement score is expected to differ from the original score
+A.: by a large degree
+(Correct)
+
+27.
+Q.: Type of student (premaster/bachelor) is a
+A.: individual-differences variable
+(Correct)
+
+28.
+Q.: The measurement level of the variable educational degree is
+A.: ordinal
+(Correct)
+
+29. 
+Q.: Consider the following results for the variable sex:
+
+Descriptive Statistics / Value
+Number of respondents / 115
+Number of missing values / 4
+Minimum value / 1
+Maximum value / 3
+
+Indicate what the most likely error is
+
+A.: a data entry error
+(Correct)
+
+30.
+Q.: The benefit of a syntax-file, amongst other things, is documentation of
+A.: all (statistical) operations performed on the data
+(Correct)
