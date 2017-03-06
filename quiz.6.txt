@@ -1,0 +1,39 @@
+1.
+Q.: The method section of a research report
+A.: summarizes the data collection procedure and the planned statistical analyses
+(Exactly, it is a summary of these things without going into too much detail.)
+
+2.
+Q.: In the codebook the researcher
+A.: specifies what variables were entered into the data file and defines the numeric codes for each variable
+(Correct, that is what the codebook is for.)
+
+3.
+Q.: Research integrity encompasses
+A.: protecting the welfare of participants but also the integrity of the scientific process
+(Very good, that is the key essence of research integrity.)
+
+4.
+Q.: A recent study in which Facebook users’ moods were manipulated has raised ethical concerns. In defense of the researchers someone states that the effect of the manipulation was minimal and that therefore very little harm was done. This statement pertains to
+A.: the ethical principle of beneficence
+(Well spotted! Beneficence means that participants should not be harmed.)
+
+5.
+Q.: A researcher continues to believe in an effect regardless of strong evidence to the contrary. In addition, he refuses to respond to critique. This is an example of
+A.: a violation of the principle of objectivity
+(Indeed. This researcher is actually very subjective in his or her opinion.)
+
+6.
+Q.: Suppose you have conducted an experiment on 20 subjects. The results are disappointing in that the hypothesized difference between conditions is not significant (a p value of .08). Given this unfavorable result you decide to run 20 more subjects. This is a questionable research practice because
+A.: the decision to collect more data should not be conditional upon obtaining a (non-) significant finding
+(Very good! This researcher is aware of the fact that larger sample size influences the p values and wants to establish a significant result by adding more participants. This is definitely questionable research.)
+
+7.
+Q.: Published articles should ideally be
+A.: subjected to peer review
+(Correct! Research should be evaluated by experts in the field to make sure the literature isn't flooded with flawed research.)
+
+8.
+Q.: Proposed solutions to publication bias include
+A.: preregistration and pre-acceptance of the hypothesis and research setup
+(Yes, this way non-significant results will be published, as long as the research was good enough.)

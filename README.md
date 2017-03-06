@@ -13,8 +13,8 @@
   - [x] Quiz 90% (9/10)
 - [x] Week 5
   - [x] Quiz 100% (9/9)
-- [ ] Week 6
-  - [ ] Quiz
+- [x] Week 6
+  - [x] Quiz 100% (8/8)
 - [ ] Week 7
   - [ ] Quiz
 - [ ] Week 8
