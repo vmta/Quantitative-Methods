@@ -46,10 +46,5 @@ A.: introduces systematic error and is called bias towards the middle
 
 10.
 Q.: Hair cortisol (a hormone made by the adrenal glands) levels are being used as a chronic stress measure. This illustrate the use of
-A.: observational measures
-This should not be selected 
-No, observational measures refer to observing something. You cannot observe hair cortisol level.
 A.: physical measures
-A.: trace measures
-This should not be selected 
-No, trace measures refer to the indirect measure of behavior through trace evidence, for example the mess you made in your room to determine your degree of chaos.
+(Correct! Hair cortisol is a physical measure.)
