@@ -1,0 +1,148 @@
+Preamble
+
+English vs. Dutch
+
+The Communication Sciences department at the University of Amsterdam is considering offering the existing Dutch bachelor program in English. Some teachers fear that this will cause the educational quality of the program to deteriorate. They point to studies that show that students who study abroad need more time to complete a program. A researcher who is interested in the relationship between language skills and academic achievement, decides to use this opportunity to explore the general hypothesis that education in a foreign language has a negative influence on academic achievement.
+
+The researcher approaches the lecturers of the first two courses in the first semester, 'Introduction' and 'History'. She persuades the lecturers to deliver the lectures and seminars (group meetings) twice, once in Dutch and once in English. At the start of the semester, students choose if they wanted to follow both courses either in English, or in Dutch. Students are also asked for permission to use their academic results for research purposes.
+
+To assess the effect of the language of instruction on academic achievement, the researcher measures students' knowledge of the material twice, once with an exam at the start of the course and once at the end. These are all different, old exams that have previously shown high psychometric quality.
+
+Besides academic performance (average exam grade on the final exam, range 1-10), students are asked to fill out a separate online survey to indicate their age (in years), gender (male / female), secondary education final exam score in English (grade, range 1-10) and overall satisfaction with the courses 'Introduction' and 'History' (mean sum score of 4 Likert items, range 4-20).
+
+Disclaimer: This research is completely fabricated!
+
+1.
+Q.: The described study is
+A.: quasi-experimental
+
+2.
+Q.: The researcher could have conducted a manipulation-check by checking if the
+A.: discussions in the English speaking group were really conducted in English
+
+3.
+Q.: The independent variable is
+A.: language of instruction
+
+4.
+Q.: The described research design is especially useful to assess threats to internal validity by
+A.: maturation
+
+5.
+Q.: If the reliability of the overall satisfaction questions is very high, then their validity will be
+A.: not necessarily high or low
+
+6.
+Q.: The dependent variable in this study is
+A.: academic achievement
+
+7.
+Q.: The design of this study is called a
+A.: pretest posttest non-equivalent control group design
+
+8.
+Q.: External validity could have been enhanced by using a
+A.: random sample
+
+9.
+Q.: If we don’t take into account the average exam grade at the start of the course, the described research design may be called
+A.: between (subjects)
+
+10.
+Q.: The variable most appropriate to be used as a control variable is
+A.: final exam grade in English
+
+11.
+Q.: The described research design is, in terms of epistemologic approach, most compatible with
+A.: empiricism
+
+12.
+Q.: The best randomization check the researcher could have performed would be to check whether
+A.: the average final exam grade in English was similar between groups
+A.: academic achievement was the same between groups at the start of the study
+A.: both (Correct)
+
+13.
+Q.: Suppose the researcher decides to add gender to the described design as an independent variable. The effects that can be analyzed are
+A.: two main effects and one interaction effect
+
+14.
+Q.: The internal validity of the described research design is threatened most strongly by
+A.: selection
+
+15.
+Q.: Suppose the research hypothesis is not confirmed, and for that reason the study is not accepted for publication by scientific journals. This is an example of
+A.: publication bias
+
+16.
+Q.: Overall satisfaction (with the courses) is
+A.: an individual difference variable
+
+17.
+Q.: The measurement level of the variable 'language of instruction' is
+A.: nominal
+
+18.
+a. "Research shows that students who study abroad need more time to complete their studies”
+b. "Teaching a foreign language will lead to lower academic performance than education in the native language”
+c. "The average final exam grade for the courses 'Introduction' and 'History' will be lower in the group that was taught in English than in the group was taught in Dutch”
+Q.: The previous three statements a, b and c respectively belong to the following stages of the empirical cycle
+A.: observation - induction - deduction
+
+19.
+Q.: Suppose the items in the online questionnaire really do give a good indication of student satisfaction with the courses. In that case, we say the questionnaire has high
+A.: construct validity
+
+20.
+Q.: If students behave differently because they are aware of their participation in a study, we call this
+A.: demand characteristics
+
+21.
+Q.: Suppose the Ethics Committee evaluates the described research and decides that the benefits do not outweigh the costs. Which ethical aspect do they regard to be violated?
+A.: beneficence
+
+22.
+Q.: If a researcher believes that the nature of reality is not independent of our thinking, then this is primarily an objection of
+A.: an ontological nature
+
+23.
+Q.: The measurement level of variables like exam grade and final exam grade in English is highly debated, generally researchers will accept that these variables approximate the
+A.: interval level, but strictly speaking are measured at the ordinal level
+
+24.
+Q.: Suppose the researcher finds: a) that there are relatively more women in the English group than in the Dutch group and b) that on average women perform equally well in the final examinations. In this case, we call gender
+A.: a confounding variable
+A.: a lurking variable
+A.: neither (Correct)
+
+25.
+Q.: One method to evaluate the validity of a measurement instrument like exam grade or the overall course satisfaction items is the
+A.: multi-trait multi-method matrix approach
+
+26.
+Q.: Suppose you have determined - through psychometric analysis - that the final exam of the course "Introduction" has high construct validity. On the basis of this information, you can say that the reliability of this exam
+A.: is probably high
+
+27.
+Q.: The ecological validity of this study is high because the
+A.: research setting resembles a natural educational setting
+
+28.
+Q.: Suppose the researcher had initially planned to use the results of the final exams as well as the resits (retake exam if the final exam was not passed). However, she notices immediately after the final exams that the results are in line with the expectations. The researcher decides to offer the data for publication immediately and no longer waits for the results of the resits. This is called
+A.: data snooping
+
+29.
+Q.: A codebook includes a description of
+A.: what the variables and variable values in the data file mean
+
+30. 
+Suppose that there is no difference between the two groups in the mean grade for the exams at the start of the semester. Now look at the following table that shows the mean grade for the final exams for both groups.
+Results for mean final exam grade:
+
+Language of instruction	N	missing	mean	sd
+English			79	3	6.56	1.27
+Dutch			119	4	6.11	2.14
+
+Look only at the direction of the difference between these means (not the size or significance). The direction of the difference is
+
+A.: contrary to the expectations

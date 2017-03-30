@@ -18,7 +18,7 @@
 - [x] Week 7
   - [x] Practice Exam 1 100% (30/30)
   - [x] Practice Exam 2 100% (30/30)
-- [ ] Week 8
-  - [ ] Final Exam
+- [x] Week 8
+  - [X] Final Exam 100% (30/30)
 
 Not for sale. Please, consider purchasing courses and/or contribute to respective course authors.
